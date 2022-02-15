@@ -1,0 +1,23 @@
+.content{
+    background-color: orange;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.main, .side{
+    height: 400px;
+}
+.header, .footer{
+    height: 50px;
+}
+.btn{
+    background: gray;
+    border-radius: 6px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn:hover{
+    background: darkgray;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+}
+
